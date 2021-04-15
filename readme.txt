@@ -1,1 +1,2 @@
-RYAN MONTELEONE
+RYAN MONTELEONE 
+First git lecture 
